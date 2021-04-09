@@ -1,7 +1,7 @@
 ## Olá, meu nome é Esdras!
 
 ### Sobre mim :computer:
-Sou Desenvolvedor Web, atuo como freelancer e estou disponível para freelas e trabalhos. Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas.
+Sou Desenvolvedor Web, estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas e estou disponível para freelas e trabalhos.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/esdrasgomes)](https://github.com/esdrasgomes)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esdras-gomes/)](https://www.linkedin.com/in/esdras-gomes/)
