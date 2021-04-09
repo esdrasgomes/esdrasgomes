@@ -13,7 +13,14 @@ Sou Desenvolvedor Web, estou cursando o terceiro período de Análise e Desenvol
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:esdrasgoomes@gmail.com")](mailto:esdrasgoomes@gmail.com)
 
 ## Minhas Skills
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black&link=https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black)
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square-badge&logo=php&logoColor=white&link=https://img.shields.io/badge/PHP-777BB4?style=flat-square-badge&logo=php&logoColor=white)](https://img.shields.io/badge/PHP-777BB4?style=flat-square-badge&logo=php&logoColor=white)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square-badge&logo=java&logoColor=white&link=https://img.shields.io/badge/Java-ED8B00?style=flat-square-badge&logo=java&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=flat-square-badge&logo=java&logoColor=white)
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square-badge&logo=kotlin&logoColor=white&link=https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square-badge&logo=kotlin&logoColor=white)](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square-badge&logo=kotlin&logoColor=white)
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square-badge&logo=html5&logoColor=white&link=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)
+
 
 ## Status
-[![card](https://github-readme-stats.vercel.app/api?username=esdrasgomes&theme=default)](https://github.com/esdrasgomes/)
-[![esdrasgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&hide=html&layout=compact&theme=default)](https://github.com/esdrasgomes/)
+[![card](https://github-readme-stats.vercel.app/api?username=esdrasgomes&theme=dark)](https://github.com/esdrasgomes/)
+[![esdrasgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&hide=html&layout=compact&theme=dark)](https://github.com/esdrasgomes/)
