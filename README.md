@@ -1,7 +1,7 @@
 ## Olá, meu nome é Esdras!
 
 
-Sou Desenvolvedor Web, estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas e estou disponível para freelas e trabalhos.
+Sou Desenvolvedor Web, atuo como freelancer, estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas e estou disponível para freelas e trabalhos.
 
 ### Onde me encontrar:
 
