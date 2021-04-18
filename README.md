@@ -1,7 +1,7 @@
 ## Olá, meu nome é Esdras!
 
 
-Sou estudante do terceiro período de Análise e Desenvolvimento de Sistemas, desenvolvo websites como freelancer, e estou disponível para freelas e trabalhos.
+Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvo websites como freelancer, e estou disponível para freelas e trabalhos.
 
 ### Onde me encontrar:
 
