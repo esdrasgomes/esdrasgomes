@@ -1,7 +1,7 @@
 ## Olá, meu nome é Esdras!
 
 
-Sou Desenvolvedor de Sistemas e também trabalho como Freelancer desenvolvendo websites e sistemas web.
+Sou Desenvolvedor de Sistemas e também trabalho como freelancer desenvolvendo websites e sistemas seb.
 
 ### Onde me encontrar:
 
