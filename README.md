@@ -1,7 +1,7 @@
-## Olá, meu nome é Esdras!
+## Hello Friend!
 
 
-- Sou Desenvolvedor de Sistemas e também atuo como freelancer desenvolvendo websites e sistemas web.
+- Meu nome é Esdras, sou Desenvolvedor de Sistemas e também atuo como freelancer desenvolvendo websites e sistemas web.
 
 
 ##
