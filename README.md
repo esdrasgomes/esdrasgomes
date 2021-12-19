@@ -20,8 +20,9 @@
   <img align="center" alt="eg-kotlin" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="eg-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="eg-php" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="eg-css" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="css-html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="eg-css" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="eg-oracle" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
   <img align="center" alt="eg-oracle" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"> 
 </div>
 
