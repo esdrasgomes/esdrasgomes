@@ -36,6 +36,6 @@
 
 ### Sociais:
 
-<a href="https://www.linkedin.com/in/esdras-gomes/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="22" width="90"></a>
+<a href="https://www.linkedin.com/in/esdras-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="22" width="90"></a>
 <a href="https://www.instagram.com/egdeveloper/"><img src="https://img.shields.io/badge/-Instagram-E14C75?style=flat-square&labelColor=E14C75&logo=Instagram&logoColor=white" target="_blank" height="22" width="90"></a>
 <a href="https://linktr.ee/esdrasgomes"><img src="https://img.shields.io/badge/-Linktree-56C07C?style=flat-square&labelColor=56C07C&logo=Linktree&logoColor=white" target="_blank" height="22" width="90"></a>
