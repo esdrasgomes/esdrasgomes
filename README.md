@@ -21,7 +21,7 @@
   <img align="center" alt="eg-php" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="eg-kotlin" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="eg-javascript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="css-html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="eg-html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="eg-css" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="eg-mysql" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
   <img align="center" alt="eg-mongodb" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
