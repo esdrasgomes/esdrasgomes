@@ -30,7 +30,7 @@
 
 ##
 
-### Status
+### Status:
 [![esdrasgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&hide=html&layout=compact&theme=dark)](https://github.com/esdrasgomes/)
 [![card](https://github-readme-stats.vercel.app/api?username=esdrasgomes&theme=dark)](https://github.com/esdrasgomes/)
 
