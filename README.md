@@ -1,7 +1,7 @@
 ## Hello Friend!
 
 
-- Meu nome é Esdras, sou Desenvolvedor de Sistemas e também atuo como freelancer desenvolvendo websites e sistemas web.
+- Meu nome é Esdras, sou desenvolvedor de sistemas e também atuo como freelancer desenvolvendo websites e sistemas web.
 
 
 ##
@@ -18,7 +18,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="eg-node" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="eg-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <!-- <img align="center" alt="eg-php" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> -->
+  <img align="center" alt="eg-php" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="eg-kotlin" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="eg-javascript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="eg-html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
