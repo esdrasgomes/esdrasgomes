@@ -14,6 +14,8 @@
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)
 [![SQL Badge](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=sql&logoColor=white) -->
 
+### Tecnologias:
+
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="eg-node" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
