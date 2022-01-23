@@ -14,7 +14,7 @@
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)
 [![SQL Badge](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=sql&logoColor=white) -->
 
-### Tecnologias:
+<!-- ### Tecnologias: -->
 
 </div>
   <div style="display: inline_block"><br>
@@ -31,14 +31,24 @@
 </div>
 
 ##
-
+<!-- 
 ### Status:
 [![esdrasgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&hide=html&layout=compact&theme=dark)](https://github.com/esdrasgomes/)
 [![card](https://github-readme-stats.vercel.app/api?username=esdrasgomes&theme=dark)](https://github.com/esdrasgomes/)
 
-##
+## -->
 
-### Sociais:
+<!-- ### Status: -->
+
+<div>
+  <a href="https://github.com/esdrasgomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esdrasgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+
+<!-- ### Redes Sociais: -->
 
 <a href="https://www.linkedin.com/in/esdras-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22" width="90"></a>
 <a href="https://www.instagram.com/egdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E14C75?style=flat-square&labelColor=E14C75&logo=Instagram&logoColor=white" height="22" width="90"></a>
