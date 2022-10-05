@@ -1,11 +1,21 @@
 ## Hello Friend!
 
 
-- Meu nome é Esdras, sou desenvolvedor de sistemas e também atuo como freelancer desenvolvendo websites e sistemas web.
-
+- Software Developer Analyst :computer:
+- Freelancer :bar_chart:
 
 ##
 
+<!-- ### Status: -->
+
+<div>
+  <a href="https://github.com/esdrasgomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esdrasgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+ ##
+  
 <!--[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black&link=https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black)
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square-badge&logo=php&logoColor=white&link=https://img.shields.io/badge/PHP-777BB4?style=flat-square-badge&logo=php&logoColor=white)](https://img.shields.io/badge/PHP-777BB4?style=flat-square-badge&logo=php&logoColor=white)
 [![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square-badge&logo=java&logoColor=white&link=https://img.shields.io/badge/Java-ED8B00?style=flat-square-badge&logo=java&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=flat-square-badge&logo=java&logoColor=white)
@@ -37,16 +47,6 @@
 [![card](https://github-readme-stats.vercel.app/api?username=esdrasgomes&theme=dark)](https://github.com/esdrasgomes/)
 
 ## -->
-
-<!-- ### Status: -->
-
-<div>
-  <a href="https://github.com/esdrasgomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esdrasgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ##
 
 <!-- ### Redes Sociais: -->
 
