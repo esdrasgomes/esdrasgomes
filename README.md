@@ -50,6 +50,10 @@
 
 <!-- ### Redes Sociais: -->
 
+<a href="https://www.linkedin.com/in/esdras-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/egdeveloper" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<!--
 <a href="https://www.linkedin.com/in/esdras-gomes/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" height="22" width="90">
 </a>
@@ -58,6 +62,8 @@
 <a href="https://linktr.ee/esdrasgomes" target="_blank">
   <img src="https://img.shields.io/badge/-Linktree-56C07C?style=flat-square&labelColor=56C07C&logo=Linktree&logoColor=white" height="22" width="90">
 </a>
+-->
+
 <!-- <a>
   <img width="80" height="22px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=esdrasgomes.esdrasgomes"/>
 </a> -->
