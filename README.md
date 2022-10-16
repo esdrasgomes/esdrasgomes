@@ -1,9 +1,9 @@
 ## Hello Friend!
 
 ### Sobre mim
-- :computer: Software Developer Analyst
+- :computer: Software analyst and developer
 - :bar_chart: Freelancer
-- :books: Técnologo em Análise e Desenvolvimento de Sistemas
+- :books: Formado em Análise e Desenvolvimento de Sistemas
 
 ##
 
