@@ -3,7 +3,7 @@
 ### Sobre mim
 - :computer: Software Developer Analyst
 - :bar_chart: Freelancer
-- :books: Formado em Análise e Desenvolvimento de Sistemas
+- :books: Graduado em Análise e Desenvolvimento de Sistemas
 
 ##
 
