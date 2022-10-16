@@ -25,7 +25,7 @@
 
 ##
 
-### Status
+### Estatísticas
 
 <div>
   <a href="https://github.com/esdrasgomes">
