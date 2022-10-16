@@ -25,7 +25,7 @@
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)
 [![SQL Badge](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=sql&logoColor=white) -->
 
-<!-- ### Tecnologias: -->
+### Tecnologias
 
 </div>
   <div style="display: inline_block"><br>
@@ -49,7 +49,7 @@
 [![card](https://github-readme-stats.vercel.app/api?username=esdrasgomes&theme=dark)](https://github.com/esdrasgomes/)
 ## -->
 
-<!-- ### Redes Sociais: -->
+### Redes Sociais
 
 <a href="https://www.linkedin.com/in/esdras-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!-- <a href="https://instagram.com/egdeveloper" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
