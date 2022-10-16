@@ -1,11 +1,13 @@
 ## Hello Friend!
 
-- Software Developer Analyst :computer:
-- Freelancer :bar_chart:
+### Sobre mim
+- :computer: Software Developer Analyst
+- :bar_chart: Freelancer
+- :books: Técnologo em Análise e Desenvolvimento de Sistemas
 
 ##
 
-<!-- ### Status: -->
+### Status
 
 <div>
   <a href="https://github.com/esdrasgomes">
