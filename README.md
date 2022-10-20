@@ -33,8 +33,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
- ##
-  
+ ##  
 <!--[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black&link=https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=black)
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square-badge&logo=php&logoColor=white&link=https://img.shields.io/badge/PHP-777BB4?style=flat-square-badge&logo=php&logoColor=white)](https://img.shields.io/badge/PHP-777BB4?style=flat-square-badge&logo=php&logoColor=white)
 [![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square-badge&logo=java&logoColor=white&link=https://img.shields.io/badge/Java-ED8B00?style=flat-square-badge&logo=java&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=flat-square-badge&logo=java&logoColor=white)
@@ -42,7 +41,6 @@
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square-badge&logo=html5&logoColor=white&link=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)
 [![SQL Badge](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=sql&logoColor=white) -->
-
 <!-- 
 ### Status:
 [![esdrasgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&hide=html&layout=compact&theme=dark)](https://github.com/esdrasgomes/)
