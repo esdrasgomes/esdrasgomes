@@ -20,7 +20,8 @@
   <img align="center" alt="eg-css" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="eg-mysql" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
   <!-- <img align="center" alt="eg-mongodb" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> -->
-  <img align="center" alt="eg-oracle" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"> 
+  <img align="center" alt="eg-oracle" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="eg-oracle" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
 </div>
 
 ##
