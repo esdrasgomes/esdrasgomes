@@ -43,7 +43,6 @@
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square-badge&logo=html5&logoColor=white&link=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=css3&logoColor=white)
 [![SQL Badge](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/SQL-1572B6?style=flat-square-badge&logo=sql&logoColor=white) -->
-
 <!-- 
 ### Status:
 [![esdrasgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasgomes&hide=html&layout=compact&theme=dark)](https://github.com/esdrasgomes/)
@@ -66,7 +65,6 @@
   <img src="https://img.shields.io/badge/-Linktree-56C07C?style=flat-square&labelColor=56C07C&logo=Linktree&logoColor=white" height="22" width="90">
 </a>
 -->
-  
 <!-- <a>
   <img width="80" height="22px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=esdrasgomes.esdrasgomes"/>
 </a> -->
