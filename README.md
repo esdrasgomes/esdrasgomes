@@ -2,8 +2,8 @@
 
 ### Sobre mim
 - :computer: Software Developer Analyst
-- :bar_chart: Freelancer
-- :books: Pós graduando em Desenvolvimento Mobile, Cloud Computing e Investimentos.
+<!-- - :bar_chart: Freelancer -->
+- :books: Pós graduado em Desenvolvimento Mobile, Cloud Computing e Investimentos.
 
 ##
 
