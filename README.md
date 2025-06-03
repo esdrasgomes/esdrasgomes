@@ -1,4 +1,4 @@
-## Hello Friend!
+## Hello, Friend!
 
 ### Sobre mim
 - :computer: Software Developer Analyst
