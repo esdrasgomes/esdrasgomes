@@ -3,7 +3,7 @@
 ### Sobre mim
 - :computer: Software Developer Analyst
 <!-- - :bar_chart: Freelancer -->
-- :books: Pós graduado em Desenvolvimento Mobile, Cloud Computing e Investimentos.
+- :books: Postgraduate in Mobile Development, Cloud Computing and Investments.
 
 ##
 
@@ -51,7 +51,7 @@
 [![card](https://github-readme-stats.vercel.app/api?username=esdrasgomes&theme=dark)](https://github.com/esdrasgomes/)
 ## -->
 
-### Redes Sociais
+### Social Media
 
 <a href="https://www.linkedin.com/in/esdras-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
