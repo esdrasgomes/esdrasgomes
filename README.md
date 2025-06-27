@@ -27,7 +27,7 @@
 
 ##
 
-### Estatísticas
+### Statistics
 
 <div>
   <a href="https://github.com/esdrasgomes">
