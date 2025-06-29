@@ -1,7 +1,7 @@
 ## Hello, Friend!
 
 ### About me
-- :computer: Fullstack Software Developer
+- :computer: Fullstack Developer
 <!-- - :bar_chart: Freelancer -->
 - :books: Postgraduate in Mobile Development, Cloud Computing and Investments.
 
